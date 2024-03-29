@@ -18,6 +18,7 @@ body {
 
 .p-title {
   text-align: center;
+  font-family: arial;
 }
 
 .img {
@@ -26,6 +27,7 @@ body {
 
 .item {
   text-align: center;
+  font-weight: bold;
 }
 
 .btn {
