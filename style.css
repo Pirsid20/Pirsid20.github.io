@@ -14,6 +14,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 200px 200px 200px;
+  grid-row-gap: 20px;
 }
 
 .p-title {
@@ -28,7 +29,6 @@ body {
 .item {
   text-align: center;
   font-weight: bold;
-  margin-bottom: 40px;
 }
 
 .btn {
