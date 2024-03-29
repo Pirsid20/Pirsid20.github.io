@@ -29,6 +29,7 @@ body {
 .item {
   text-align: center;
   font-weight: bold;
+  border-style: solid;
 }
 
 .btn {
