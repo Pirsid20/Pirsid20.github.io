@@ -16,6 +16,10 @@ body {
   grid-template-rows: 200px 200px 200px;
 }
 
+.p-title {
+  text-align: center;
+}
+
 .img {
   width: 150px;
 }
@@ -41,6 +45,6 @@ body {
   background: lightgreen;
 }
 
-.usercard {
+.uscarder {
   text-align: center;
 }
