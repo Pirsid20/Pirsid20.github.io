@@ -4,6 +4,7 @@ body {
   font-size: 18px;
   color: var(--tg-theme-text-color);
   background: var(--tg-theme-bg-color);
+  
 }
 
 .container {
@@ -50,4 +51,18 @@ body {
 
 .uscarder {
   text-align: center;
+}
+
+.names {
+  justify-content: center;
+  max-width: 390px;
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.name_title {
+  text-align: center;
+  margin: 0 10px;
+  border: 1px solid black; /* Добавляет границу */
+  padding: 5px; /* Добавляет внутренний отступ */
 }
